@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31121338410",
+    "project_id": "sig-soft-miniproject",
+    "storage_bucket": "sig-soft-miniproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31121338410:android:0be8c84a99123a51431353",
+        "android_client_info": {
+          "package_name": "com.example.konnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31121338410-88mklsc2fd81b8o0um9ddqa04lvcrug1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5OzWVFdYxj5wJancMmK0svydFRu_rgls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31121338410-88mklsc2fd81b8o0um9ddqa04lvcrug1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
